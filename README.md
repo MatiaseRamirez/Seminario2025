@@ -1,6 +1,9 @@
 # Seminario2025
 Repositorio para la cursada 2025
 
+#Alumno
+*Matias Ramirez*
+
 # Mi Proyecto Personal
 
 Este repositorio contiene una página web desarrollada como práctica del curso de GitHub. Incluye HTML, CSS y JavaScript básicos.
