@@ -1,8 +1,8 @@
 # Seminario2025
 Repositorio para la cursada 2025
 
-#Alumno
-*Matias Ramirez*
+## Alumno
+**Matias Ramirez**
 
 # Mi Proyecto Personal
 
