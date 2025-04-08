@@ -1,4 +1,5 @@
-# Seminario2025
+# Seminario de Actualización y Profundización
+
 Repositorio para la cursada 2025
 
 ## Alumno
@@ -6,22 +7,7 @@ Repositorio para la cursada 2025
 
 # Mi Proyecto Personal
 
-Este repositorio contiene una página web desarrollada como práctica del curso de GitHub. Incluye HTML, CSS y JavaScript básicos.
+Este repositorio va a contener material de la materia.
 
-## Características
-- Interfaz simple y responsive
-- Estilos modernos usando CSS Flexbox
-- Código comentado y estructurado
-
-## Cómo usarlo
-1. Clona el **repositorio**
-2. Abre `index.html` en tu _navegador_
-3. Personalízalo a tu gusto
-
-## Tecnologías utilizadas
-- HTML5
-- CSS3
-- JavaScript
-
-## Autor
+## Profesor
 **Pablo Fernando Melissari**
